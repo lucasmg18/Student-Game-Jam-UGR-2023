@@ -1,5 +1,9 @@
 # Student-Game-Jam-UGR-2023
 Game designed for the Student Game Jam of 2023 held in the University of Granada UGR, Spain.
+#### Link to the Game Jam Website: [Student Game Jam](https://itch.io/jam/student-game-jam)
+
+#### Link to the Game: [Genetic Battle](https://itch.io/jam/student-game-jam/rate/1966611)
+
 # Game Manual
 ## Deck
 - You start with an Ant card, and from time to time you will be joined by allies (cards) that you can choose.
