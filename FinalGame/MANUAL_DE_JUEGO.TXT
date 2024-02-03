@@ -1,0 +1,15 @@
+Manual del juego:
+
+--Empiezas con una carta de Ant, y de vez en cuando se unirán a ti aliados (cartas) que podrás elegir.
+--En cada turno tu mano de 5 cartas se rellenará con las cartas del mazo que vas creando con los nuevos aliados.
+
+--Hay 5 carriles de combate en el area de batalla (Battle Area), en cada turno las cartas que estan en el mismo carril combatiran, y si no hay carta en uno de los lados el daño lo recibirá el jugador o el enemigo.
+--Cada carta tiene un coste de mana, un ataque y una vida que puede ir disminuyendo con los combates.
+--En cada turno tendrás un total de 5 de maná para todo el turno, usalo bien.
+
+
+--Para colocar una carta en el campo de batalla haz click en la carta que deseas colocar y si tienes suficiente maná se colocará automaticamente en el hueco del campo de batalla más a la izquierda.
+--No se puede arrastrar cartas al carril que prefieras, solo se puede hacer click en las cartas de la mano y se colocarán automaticamente en el hueco del campo de batalla más a la izquierda.
+--Cuando un aliado se quiera unir a tu equipo te ofrecerán 3 aliados y deberás elegir uno para añadirlo a tu mazo haciendo click en el que prefieras.
+--Si pasas el ratón sobre una carta se mostrará más grande en el lado de la derecha con su descripción.
+
